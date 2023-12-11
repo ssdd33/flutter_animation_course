@@ -36,9 +36,6 @@ class _RotatingYAxisRectAnimationState extends State<RotatingYAxisRectAnimation>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      //     body: CustomPaint(
-      //   painter: MyPainter(),
-      // )
       body: Center(
           child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
